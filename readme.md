@@ -1,4 +1,4 @@
-## SSTI AI Fuzzer
+## AI-Powered SSTI Fuzzer For 0 Day Discovery
 
 - **Hybrid crawler**
   - Static HTML parsing with BeautifulSoup.
